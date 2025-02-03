@@ -100,99 +100,6 @@ This project is a **lifelong pursuit**, as computer science lies at the core of 
 
 I will track my progress using tools like time tracking and periodic reviews. You can access the time-tracking tool here: [Time Tracker](https://app.clockify.me/dashboard)
 
-## Theory
-
- Below is a **matrix** of the theoretical units ("Mental Models from other people") I am actively engaging with or have completed, allowing for transparency and prioritization in my learning process. 
- 
- The resources included in the **Active Learning** table reflect a deliberate choice to balance my immediate professional needs as a backend developer with my broader philosophical approach to learning computer science. 
-
-| Active? | Completed? | Resource Name                                        | Source Name                              | Type            | Link                                                                                 |
-|---------|------------|-----------------------------------------------------|------------------------------------------|-----------------|-------------------------------------------------------------------------------------|
-| Yes     |            | Mastering NodeJS Web Development                     | Adam Freeman                             | Book            |                                                                                     |
-| Yes     |            | AWS Certified Developer Associate Certification      | AWS Training and Certification           | Certification   | [Link](https://aws.amazon.com/certification/certified-developer-associate/)         |
-| Yes     |            | AWS Certified Developer Official Study Guide         | AWS Training and Certification           | Book            |                                                                                     |
-| Yes     |            | Structure and Interpretation of Computer Programs: JavaScript Edition | Gerald Jay Sussman, Hal Abelson, and Julie Sussman | Book            |                                                                                     |
-| Yes     |            | MongoDB Node.js Developer Path                       | MongoDB University                       | Course          | [Link](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path)      |
-| Yes     |            | On Computing: The Fourth Great Scientific Domain     | Paul S. Rosenbloom                       | Book            |                                                                                     |
-| Yes     |            | MongoDB: The Definitive Guide 3rd Edition            | Shannon Bradshaw and Others              | Book            |                                                                                     |
-| Yes     |            | Introduction to NodeJS                               | The Linux Foundation                     | Course          | [Link](https://training.linuxfoundation.org/training/introduction-to-nodejs-lfw111/) |
-| Yes     |            | Ideas That Created the Future: Classic Papers of Computer Science | Harry R. Lewis                           | Book            |                                                                                     |
-
-## Applied Theory
-
-### Problems
-
-The following problem sets are designed to develop practical skills and test understanding in computer science:
-
-| #  | Problem Set Name       | Source    | Link                                                                                 |
-|----|------------------------|-----------|-------------------------------------------------------------------------------------|
-| 1  | Top Interview 150      | LeetCode  | [Link](https://leetcode.com/studyplan/top-interview-150/)                          |
-
-### Tools
-
-The following tools have been pre-selected to build for the Applied Theory section:
-
-| #  | Project Name                        | Project Description                                                                                      | Project Link                                                                                      | Source                      |
-|----|-------------------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------|
-| 1  | BitTorrent Client                  | Node.js: Write your own bittorrent client                                                               | [Link](https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html) | Build your own X           |
-| 2  | Cryptocurrency                     | JavaScript: Writing a Blockchain in Node.js                                                             |                                                                                                  | Build your own X           |
-| 3  | Web Server                         |                                                                                                          | [Link](https://build-your-own.org/webserver/)                                                    | Build your own X           |
-| 4  | Bot                                |                                                                                                          |                                                                                                  | Build your own X           |
-| 5  | CLI Tool                           |                                                                                                          | [Link](https://citw.dev/tutorial/create-your-own-cli-tool)                                       | Build your own X           |
-| 6  | Web Server                         |                                                                                                          | [Link](https://build-your-own.org/webserver/)                                                    | Build your own X           |
-| 7  | Web Server with NodeJs Streams     |                                                                                                          | [Link](https://www.codementor.io/@ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji) | Build your own X           |
-| 8  | Express                            |                                                                                                          | [Link](https://github.com/antsmartian/lets-build-express)                                       | Build your own X           |
-| 9  | DNS Server                         |                                                                                                          | [Link](https://engineerhead.github.io/dns-server/)                                              | Build your own X           |
-| 10 | Timestamp Microservice             |                                                                                                          | [Link](https://www.freecodecamp.org/learn/back-end-development-and-apis/#back-end-development-and-apis-projects) |                             |
-| 11 | Request Header Parser Microservice |                                                                                                          | [Link](https://www.freecodecamp.org/learn/back-end-development-and-apis/#back-end-development-and-apis-projects) |                             |
-| 12 | URL Shortener Microservice         |                                                                                                          | [Link](https://www.freecodecamp.org/learn/back-end-development-and-apis/#back-end-development-and-apis-projects) |                             |
-| 13 | Exercise Tracker                   |                                                                                                          | [Link](https://www.freecodecamp.org/learn/back-end-development-and-apis/#back-end-development-and-apis-projects) |                             |
-| 14 | File Metadata Microservice         |                                                                                                          | [Link](https://www.freecodecamp.org/learn/back-end-development-and-apis/#back-end-development-and-apis-projects) |                             |
-| 15 | eCommerce                          |                                                                                                          | [Link](https://www.udemy.com/course/pro-javascript-backend-developer/?couponCode=KEEPLEARNING)  |                             |
-| 16 | Tour-Booking                       |                                                                                                          | [Link](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/?couponCode=KEEPLEARNING)    |                             |
-| 17 | Note-Taking                        |                                                                                                          | [Link](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?couponCode=KEEPLEARNING) |                             |
-| 18 | Weather App                        |                                                                                                          | [Link](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?couponCode=KEEPLEARNING) |                             |
-| 19 | Task Manager                       |                                                                                                          | [Link](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?couponCode=KEEPLEARNING) |                             |
-| 20 | Real-Time Chat                     |                                                                                                          | [Link](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?couponCode=KEEPLEARNING) |                             |
-| 21 | Online Shop                        |                                                                                                          | [Link](https://www.udemy.com/course/nodejs-the-complete-guide/?couponCode=KEEPLEARNING)          |                             |
-| 22 | Blog                               |                                                                                                          | [Link](https://www.udemy.com/course/nodejs-the-complete-guide/?couponCode=KEEPLEARNING)          |                             |
-| 23 | SecondChance                       | The SecondChance application connects users who wish to give away household items they no longer need with users who enjoy recycling and prefer to find free household items to match their tastes rather than purchasing new ones. | [Link](https://www.coursera.org/learn/javascript-backend-capstone-project/home/week/1)          | [Coursera](https://www.coursera.org/professional-certificates/backend-javascript-developer) |
-| 24 | Multiplayer Pong                   |                                                                                                          | [Link](https://zerotomastery.io/courses/learn-node-js/#Project)                                 |                             |
-| 25 | Planet Finder                      |                                                                                                          | [Link](https://zerotomastery.io/courses/learn-node-js/#Project)                                 |                             |
-| 26 | NASA Mission Control               |                                                                                                          | [Link](https://zerotomastery.io/courses/learn-node-js/#Project)                                 |                             |
-| 27 | FinPay                             |                                                                                                          | [Link](https://app.masteringbackend.com/projects/build-finpay:-a-fintech-solution)              |                             |
-| 28 | Web Crawler                        |                                                                                                          | [Link](https://www.boot.dev/tracks/backend)                                                    |                             |
-| 29 | Restful Restaurants                |                                                                                                          | [Link](https://www.codecademy.com/enrolled/courses/connecting-front-end-to-back-end)            |                             |
-| 30 | Break a Monolithic Application into Microservices |                                                                                                          | [Link](https://aws.amazon.com/tutorials/break-monolith-app-microservices-ecs-docker-ec2/)       |                             |
-
-## Resources
-
-The following resources are my primary drivers of information and practical learning in computer science:
-
-| Name                          | Link                                                   |
-|-------------------------------|--------------------------------------------------------|
-| Brilliant                     | [Visit](https://brilliant.org/home/)                  |
-| CodeCademy                   | [Visit](https://www.codecademy.com/learn)             |
-| CodeWars                     | [Visit](https://www.codewars.com/dashboard)           |
-| Coding Interview University  | [Visit](https://github.com/jwasham/coding-interview-university) |
-| Exercism                     | [Visit](https://exercism.org/dashboard)               |
-| FreeCodeCamp                 | [Visit](https://www.freecodecamp.org/learn)           |
-| Geeks4geeks                  | [Visit](https://www.geeksforgeeks.org/)               |
-| GitNation                    | [Visit](https://portal.gitnation.org/)                |
-| HackerEarth                  | [Visit](https://www.hackerearth.com/challenges/)      |
-| HackerRank                   | [Visit](https://www.hackerrank.com/dashboard)         |
-| Ironhack                     | [Visit](https://my.ironhack.com/cohorts/6308c73b3df04e002c642698) |
-| LeetCode                     | [Visit](https://leetcode.com/)                        |
-| Mastering Backend            | [Visit](https://app.masteringbackend.com/)            |
-| MDN                          | [Visit](https://developer.mozilla.org/en-US/)         |
-| O'reilly                     | [Visit](https://learning.oreilly.com/home/)           |
-| Open Source Society University | [Visit](https://github.com/ossu/computer-science)   |
-| Project Based Learning Github | [Visit](https://github.com/Xtremilicious/projectlearn-project-based-learning) |
-| Project Euler                | [Visit](https://projecteuler.net/)                    |
-| Roadmap                      | [Visit](https://roadmap.sh/)                          |
-| StackOverflow                | [Visit](https://stackoverflow.com/)                   |
-| Teach Yourself Computer Science | [Visit](https://teachyourselfcs.com/)             |
-
 ## **Inspiration**
 
 This repository draws inspiration from thinkers, projects, and resources that emphasize **understanding over abstraction** and **exploration over rote learning**:
@@ -226,7 +133,7 @@ The integration may take one of the following forms:
 
 This adaptive approach ensures the repository remains aligned with the evolving goals of both my personal learning and the Cognitive Compass system.
 
-For more details about the Cognitive Compass project, visit the repository here: [Cognition Compass Project](https://github.com/Angelguirao/CognitionCompass).
+For more details about the Cognitive Compass project, visit the repository here: [Cognition Compass Project](https://github.com/Angelguirao/CognitionCompass) (Note: This repository is private).
 
 ## Final Note
 
